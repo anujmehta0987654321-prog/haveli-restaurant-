@@ -1,0 +1,8 @@
+{
+  "name": "Remix: Haveli Restaurant",
+  "description": "Premium North Indian Fine Dining Website",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
